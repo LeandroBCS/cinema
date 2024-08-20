@@ -9,15 +9,17 @@
 > 
 
 > ## **Equipe:**
-> _Bruno Bagetti Garbrecht;_
+> **Gerente de projeto:** _Vitória Ribeiro;_
 >
-> _Kauan Xavier;_
+> **Desenvolvedor web:**  _Kauan Xavier;_
 >
-> _Vitória Ribeiro;_
+> **Designer:** _Bruno Bagetti Garbrecht;_
 >
-> _Sérgio Xavier de Oliveira Neto;_
->
-> _Leandro Batista Cordova dos Santos._
+> **Analista de requisitos;** _Leandro Batista Cordova dos Santos._
+> 
+>  **Cliente:**  _Sérgio Xavier de Oliveira Neto;_
+
+
 
 
 > ## **Contatos:**
