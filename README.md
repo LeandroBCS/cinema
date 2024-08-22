@@ -17,9 +17,9 @@
 >
 > **Designer:** _Bruno Bagetti Garbrecht;_
 >
-> **Analista de requisitos;** _Leandro Batista Cordova dos Santos._
+> **Analista de requisitos;** _Leandro Batista Cordova dos Santos;_
 > 
->  **Cliente:**  _Sérgio Xavier de Oliveira Neto;_
+>  **Cliente:**  _Sérgio Xavier de Oliveira Neto._
 
 
 
